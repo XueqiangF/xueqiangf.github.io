@@ -265,6 +265,8 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
   `Analytical Biochemistry 2022` [Predicting RNA solvent accessibility from multi-scale context feature via multi-shot neural network](https://doi.org/10.1016/j.ab.2022.114802), **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Jun Hu *, Yuxuan Tang, Dongjun Yu *, Guijun Zhang *, Analytical Biochemistry, 2022, 654: 114802. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Analytical Biochemistry) M2pred.pdf) | [**Code**](https://github.com/XueqiangF/M2pred)
 
+  
+
   <hr>
 
   <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
@@ -272,7 +274,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
   	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/2021 (Analytical Biochemistry) DMVFL-RSA.jpg"></dt>
   	<dd><a href="https://doi.org/10.1016/j.ab.2021.114358"><strong>Improved protein relative solvent accessibility prediction using deep multi-view feature learning framework</strong> 
   	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ab.2021.114358" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
-  	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>,Jun Hu*, Ningxin Jia, Dongjun Yu*, Guijun Zhang*</dd>
+  	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Jun Hu*, Ningxin Jia, Dongjun Yu*, Guijun Zhang*</dd>
    	<dd><strong>Analytical Biochemistry, 2021, 631: 114358. [中科院3区 TOP|JCR 2区|IF3.65]</strong></dd>
       <dd><a href="https://xueqiangf.github.io/doc/2021 (Analytical Biochemistry) DMVFL-RSA.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/DMVFL-RSA" target="_blank">Code</a> | <a href="http://202.119.84.36:3079/dmvflrsa/" target="_blank">Web Server</a> </dd>
   </dl>
@@ -288,8 +290,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 # 🎡 Service
 ##  Journal Reviewer
-- Reviewer for BioData Mining
-- <!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
+- Reviewer for BioData Mining<!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
 
 <br/>
 
@@ -311,7 +312,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <dl><div id="clustrmaps-widget" style="width:40%">
 		 <p><right>
-		 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
+		 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/globe.js?d=2BweIWSM3HLBD5I06v8_38hePTTv2bFlfePGeKunuU4"></script>
           </div>
     </dl>
 
