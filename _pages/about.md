@@ -293,9 +293,9 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 - *2024.11* **National Scholarship** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 
-- 2022-2024 The Scholarship for a Doctor’s degree, Awarded by Hefei University of Technology
+- *2022-2024*  The Scholarship for a Doctor’s degree, Awarded by Hefei University of Technology
 
-- 2019-2022 The Scholarship for a Master’s degree, Awarded by Zhejiang University of Technology
+- *2019-2022*  The Scholarship for a Master’s degree, Awarded by Zhejiang University of Technology
 
 
 <br/>
@@ -311,6 +311,12 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 <div id="clustrmaps-widget" style="width:40%"><p><right><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
 </div></dl>
 
-
+<br/>
 
 # 🙇 Miscellaneous
+
+
+
+
+
+<br/>
