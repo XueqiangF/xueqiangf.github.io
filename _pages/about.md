@@ -102,6 +102,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FuseISP.png"></dt>
 	<dd><strong>Joint intensity-spectral polarization hierarchical fusion guided efficient transparent object detection</strong></dd> 
  	<dd><strong>Under Review</strong></dd>
+
 </dl>
 
 <hr>
@@ -115,6 +116,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/LSTSM.png"></dt>
 	<dd><strong>LSTSM (Learning to See Through the Scattering Media): Towards a general-purpose framework for multi-modality polarization scattering imaging</strong></dd> 
  	<dd><strong>Under Review</strong></dd>
+
 </dl>
 
 <hr>
@@ -124,6 +126,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/Meta-DUNET-UPI.png"></dt>
 	<dd><strong>Meta-DUNET-UPI: Improving polarization imaging through highly turbid underwater using a deformable network and meta-learning</strong></dd> 
  	<dd><strong>Under Review</strong></dd>
+
 </dl>
 
 <hr>
@@ -140,6 +143,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dd>Bing Lin, Weiyun Chen, <font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Peng Peng, Zhongyi Guo *</dd>
  	<dd><strong>Optics & Laser Technology 181 (2025) 111664. [中科院2区 TOP|JCR 1区|IF4.6]</strong></dd>
     <dd><a href="https://xueqiangf.github.io/doc/20240827 (Opt. Laser Technol.) TIU-Net.pdf" target="_blank">PDF</a></dd>
+
 </dl>
 
 <hr>
@@ -152,6 +156,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Jun Hu*, Zhongyi Guo*</dd>
  	<dd><strong>IEEE/ACM Trans. Comput. Biol. Bioinf., 2024. [中科院3区 | CCF B|JCR 1区|IF4.5]</strong></dd>
     <dd><a href="https://xueqiangf.github.io/doc/20240625 (IEEE-ACM Trans. Comput. Biol. Bioinf.) Ense-i6mA.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/Ense-i6mA" target="_blank">Code</a></dd>
+
 </dl>
 
 <hr>
@@ -164,6 +169,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Zhongyi Guo*</dd>
  	<dd><strong>IEEE Trans. Intell. Transp. Syst., 25(9), 12762-12775, 2024. [中科院1区 TOP | CCF B | JCR 1区 | IF8.5]</strong></dd>
     <dd><a href="https://xueqiangf.github.io/doc/2024 (IEEE Trans. Intell. Transp. Syst.) LMPC2D3DCNet.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/LMPC2D3DCNet" target="_blank">Code</a></dd>
+
 </dl>
 
 
@@ -180,7 +186,102 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <hr>
 
-- `Analytical Biochemistry 2020` [Identification of ligand-binding residues using protein sequence profile alignment and query-specific support vector machine model](https://doi.org/10.1016/j.ab.2020.113799),  Jun Hu *, Liang Rao,  **<font style="font-style:oblique"><strong>Xue-Qiang Fan</strong></font>**, Dong-Jun Yu *, Gui-Jun Zhang *, Analytical biochemistry, 2020, 604: 113799. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2020 (Analytical Biochemistry ) I-LBR.pdf)  
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Opt. Express 2024</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/2024 (Opt. Express) DPFN.png"></dt>
+	<dd><a href="https://doi.org/10.1364/OE.507711"><strong>Dynamic polarization fusion network (DPFN) for imaging in different scattering systems</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1364/OE.507711" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd>Bing Lin, <font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Peng Peng, Zhongyi Guo*</dd>
+ 	<dd><strong>Opt. Express 32, 511-525 (2024). [中科院2区 TOP|JCR 2区|IF3.8]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/2024 (Opt. Express) DPFN.pdf" target="_blank">PDF</a></dd>
+
+</dl>
+
+<hr>
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Opt. Express 2023</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/TSMPN-PSI.png"></dt>
+	<dd><a href="https://doi.org/10.1364/OE.501269"><strong>TSMPN-PSI: High-performance polarization scattering imaging based on three-stage multi-pipeline networks</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1364/OE.501269" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>,Bing Lin, Kai Guo, Bingyi Liu, Zhongyi Guo*</dd>
+ 	<dd><strong>Opt. Express 31, 38097-38113 (2023). [中科院2区|JCR 1区|IF4.6]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/2023 (Opt. Express) TSMPN-PSI.pdf" target="_blank">PDF</a></dd>
+</dl>
+
+<hr>
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">J. Chem. Inf. Model. 2023</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/I-DNAN6mA-TOC.png"></dt>
+	<dd><a href="https://doi.org/10.1021/acs.jcim.2c01465"><strong>I-DNAN6mA: Accurate Identification of DNA N6-Methyladenine Sites Using the Base-Pairing Map and Deep Learning</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1021/acs.jcim.2c01465" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>,Bing Lin, Jun Hu*, Zhongyi Guo*</dd>
+ 	<dd><strong>J. Chem. Inf. Model. 2023, 63, 3, 1076–1086. [中科院2区 TOP|JCR 1区|IF5.6]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/2023 (Journal of Chemical Information and Modeling) I-DNAN6mA.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/I-DNAN6mA" target="_blank">Code</a> | <a href="https://xueqiangf.github.io/doc/I-DNAN6mA/index.html" target="_blank">Project</a> </dd>
+</dl>
+
+<hr>
+
+- `IEEE Sensors Journal 2023` [Real-time Defect Detection Scheme Based on Deep Learning for Laser Welding System](https://doi.org/10.1109/JSEN.2023.3277732),  Peng Peng, Kui Fan,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Hongping Zhou, Zhongyi Guo*, IEEE Sensors Journal, vol. 23, no. 15, pp. 17301-17309. [<strong>中科院2区 | JCR 1区 | IF4.3</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (IEEE Sensors Journal) MSCNN-BiLSTM-AM.pdf)  
+
+  <hr>
+
+- `Phys. Scr. 2023` [High-performance deep-learning based polarization computational ghost imaging with random patterns and orthonormalization](https://doi.org/10.1088/1402-4896/acd089),  Chenxiang Xu, Dekui Li,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Bing Lin, Kai Guo, Zhiping Yin, Zhongyi Guo*, Phys. Scr. 2023, Vol.98, Issue 6. [<strong>中科院3区 | JCR 2区 | IF2.9</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (Physica Scripta) IU-net.pdf)  
+
+  <hr>
+
+- `Photonics 2023` [High-Performance Polarization Imaging Reconstruction in Scattering System under Natural Light Conditions with an Improved U-Net](https://doi.org/10.3390/photonics10020204),  Bing Lin,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Dekui Li, Zhongyi Guo*, Photonics 2023, 10, 204. [<strong>中科院3区 | JCR 3区 | IF2.4</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (Photonics) MU-net.pdf)  
+
+<hr>
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Opt. Express 2023</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/SAM-MIU-net.png"></dt>
+	<dd><a href="https://doi.org/10.1364/OE.479636"><strong>Self-attention module in multi-scale improved U-net (SAM-MIU-net) motivating high-performance polarization scattering imaging</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1364/OE.479636" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd>Bing Lin, <font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Zhongyi Guo*</dd>
+ 	<dd><strong>Optics Express, Vol. 31, Issue 2, pp. 3046-3058 (2023). [中科院2区 TOP|JCR 1区|IF3.8]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/2022 (Optics Express) SAM-MIU-net.pdf" target="_blank">PDF</a></dd>
+</dl>
+
+<hr>
+
+- `Micromachines 2022` [Influencing Effects of Fabrication Errors on Performances of the Dielectric Metalens](https://doi.org/10.3390/mi13122098),  Guoqing Xu, Qianlong Kang,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Guanghui Yang, Kai Guo,  Zhongyi Guo*, Micromachines 13.12 (2022): 2098. [<strong>中科院3区 | JCR 2区 | IF3.4</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Micromachines).pdf)  
+
+<hr>
+
+- `Chinese Journal of Quantum Electronics 2022` [Research Progress of imaging through scattering media based on the deep learning (In Chinese)](https://doi.org/10.3969/j.issn.1007-5461.2022.06.005),  Bing Lin,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Dekui Li,  Zhongyi Guo*, Chinese Journal of Quantum Electronics, 2022, 39(6): 880-898. [**PDF**](https://xueqiangf.github.io/doc/2022 (量子电子学报) 基于深度学习的散射光场成像研究进展.pdf)  
+
+<hr>
+
+- `Journal of Optics 2022` [Full-space metasurface in mid-infrared based on phase change material of VO2](https://doi.org/10.1007/s12596-022-00962-5), **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Qianlong Kang, Huifang Ai, Kai Guo *,  Zhongyi Guo *, Journal of Optics 52.3 (2023): 1336-1344.  [**PDF**](2022 (Journal of Optics) Metasurface-VO2.pdf)  
+
+<hr>
+
+- `Computer Science 2021` [Improving RNA Base Interactions Prediction Based on Transfer Learning and Multi-view Feature Fusion (In Chinese)](https://www.jsjkx.com/CN/10.11896/jsjkx.211200186),  Xiaofei Wang,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Zhangwei Li*, Computer Science, 2023, 50(3): 164-172. [**PDF**](https://xueqiangf.github.io/doc/2021 (计算机科学) 基于迁移学习和多视图特征融...提高RNA碱基相互作用预测.pdf)  
+
+  <hr>
+
+  `Analytical Biochemistry 2022` [Predicting RNA solvent accessibility from multi-scale context feature via multi-shot neural network](https://doi.org/10.1016/j.ab.2022.114802), **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Jun Hu *, Yuxuan Tang, Dongjun Yu *, Guijun Zhang *, Analytical Biochemistry, 2022, 654: 114802. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Analytical Biochemistry) M2pred.pdf) | [**Code**](https://github.com/XueqiangF/M2pred)
+
+  <hr>
+
+  <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+      <div class="badge">Analytical Biochemistry. 2021</div>
+  	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/2021 (Analytical Biochemistry) DMVFL-RSA.jpg"></dt>
+  	<dd><a href="https://doi.org/10.1016/j.ab.2021.114358"><strong>Improved protein relative solvent accessibility prediction using deep multi-view feature learning framework</strong> 
+  	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ab.2021.114358" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+  	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>,Jun Hu*, Ningxin Jia, Dongjun Yu*, Guijun Zhang*</dd>
+   	<dd><strong>Analytical Biochemistry, 2021, 631: 114358. [中科院3区 TOP|JCR 2区|IF3.65]</strong></dd>
+      <dd><a href="https://xueqiangf.github.io/doc/2021 (Analytical Biochemistry) DMVFL-RSA.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/DMVFL-RSA" target="_blank">Code</a> | <a href="http://202.119.84.36:3079/dmvflrsa/" target="_blank">Web Server</a> </dd>
+  </dl>
+
+
+
+<hr>
+
+- `Analytical Biochemistry 2020` [Identification of ligand-binding residues using protein sequence profile alignment and query-specific support vector machine model](https://doi.org/10.1016/j.ab.2020.113799),  Jun Hu *, Liang Rao,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Dong-Jun Yu *, Gui-Jun Zhang *, Analytical biochemistry, 2020, 604: 113799. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2020 (Analytical Biochemistry ) I-LBR.pdf)  
 
 <hr>
 
@@ -188,42 +289,31 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 # 🎡 Service
 ##  Journal Reviewer
 - Reviewer for BioData Mining
-  <!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
+- <!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
 
 <br/>
 
 # 🎖 Scholarships and Honors
 
-- *2024.11* **Lei Jun Excellence Scholarship** (**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate: 10/65000+ ~ **0.01%**)  *Wuhan University*
+- *2024.11* **National Scholarship** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 
-- *2023.09* **National Scholarship** **(<u>Twice</u>)** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+- 2022-2024 The Scholarship for a Doctor’s degree, Awarded by Hefei University of Technology
 
-- *2022.09* **National Scholarship** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
-
-- *2024.10* **Luojia Undergraduate Innovation Research Fund** (首批珞珈本科生研究基金) ~50k (4 Students department-wide)  *Wuhan University*
-
-- *2024.06* **Lei Jun Computer Innovation and Development Fund** and  **Research Fund** (雷军创新发展基金、雷军研究基金) (3 Students department-wide)  *Wuhan University*
-
-- *2024.06* <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) ~20k (**25 Students nation-wide**) *SenseTime*
-
-- *2024.04* <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">**CS Pioneer**</a> (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
-
-- *2023.10* **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
-
-- *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate: 60/65000+ ~ <strong>0.1%</strong>) *Wuhan University*
-
-- *2022.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
-- *2022.09* **Excellent Student Cadre** (Award Rate: 924/65000+ ~ 1.5%) *Wuhan University*
-
+- 2019-2022 The Scholarship for a Master’s degree, Awarded by Zhejiang University of Technology
 
 
 <br/>
 
 # 📖 Educations
-- *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University, China
+- *Jun. 2022 – Present*, PHD student, School of Computer and Information, Hefei University of Technology, Hefei, China
+- *Jul. 2019 – May. 2022*, M.S. Zhejiang University of Technology, Hangzhou, China
+- *Sep. 2015 - Jun. 2019*, B.S. Henan University of Urban Construction, Pingdingshan, China
 
-
-<dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
+<dl><div id="clustrmaps-widget" style="width:40%">
+		 <p><right>
+		 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
+          </div>
+    </dl>
 
 
 
