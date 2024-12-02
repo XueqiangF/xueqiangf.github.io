@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xueqiang Fan"
-  avatar           : "images/my-512x512.png"
-  bio              : "PHD Student"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "PHD candidate School of Computer and Information, Information and Communication Engineering, Hefei University of Technology"
   location         : "Hefei, CHINA"
   employer         :
   pubmed           :
