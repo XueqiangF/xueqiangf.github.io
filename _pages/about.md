@@ -276,8 +276,6 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
     <dd><a href="https://xueqiangf.github.io/doc/2021 (Analytical Biochemistry) DMVFL-RSA.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/DMVFL-RSA" target="_blank">Code</a> | <a href="http://202.119.84.36:3079/dmvflrsa/" target="_blank">Web Server</a> </dd>
 </dl>
 
-
-
 <hr>
 
 - `Analytical Biochemistry 2020` [Identification of ligand-binding residues using protein sequence profile alignment and query-specific support vector machine model](https://doi.org/10.1016/j.ab.2020.113799),  Jun Hu *, Liang Rao,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Dong-Jun Yu *, Gui-Jun Zhang *, Analytical biochemistry, 2020, 604: 113799. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2020 (Analytical Biochemistry ) I-LBR.pdf)  
@@ -287,7 +285,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 # 🎡 Service
 ##  Journal Reviewer
-- Reviewer for BioData Mining<!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
+- Reviewer for BioData Mining <!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
 
 <br/>
 
