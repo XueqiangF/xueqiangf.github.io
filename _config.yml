@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xueqiang Fan (樊学强)'s Homepage"
+title                    : "Xueqiang Fan's Homepage"
 description              : "fanxueqqqiang@gamil.com"
 repository               : "XueqiangF/XueqiangF.github.io"
 google_scholar_stats_use_cdn : true
