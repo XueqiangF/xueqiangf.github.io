@@ -52,7 +52,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
+# 👀 Short Bio
 
 Currently I am alive. My name is Xueqiang Fan (樊学强), I'm a 4<sup>th</sup>-year PHD student at the School of Computer Science, Information and Communication Engineering, Hefei University of Technology, supervised by Prof. [Zhongyi Guo](https://scholar.google.com/citations?hl=zh-CN&user=pUjROEwAAAAJ). 
 
@@ -306,10 +306,11 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 - *Sep. 2015 - Jun. 2019*, B.S. Henan University of Urban Construction, Pingdingshan, China
 
 <dl> <div id="clustrmaps-widget" style="width:10%">
-<p><center><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2BweIWSM3HLBD5I06v8_38hePTTv2bFlfePGeKunuU4"></script> 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2BweIWSM3HLBD5I06v8_38hePTTv2bFlfePGeKunuU4"></script> 
 </div>
 <div id="clustrmaps-widget" style="width:40%"><p><right><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
 </div></dl>
 
 
 
+# 🙇 Miscellaneous
