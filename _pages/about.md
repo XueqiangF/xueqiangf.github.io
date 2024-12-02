@@ -102,7 +102,6 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FuseISP.png"></dt>
 	<dd><strong>Joint intensity-spectral polarization hierarchical fusion guided efficient transparent object detection</strong></dd> 
  	<dd><strong>Under Review</strong></dd>
-
 </dl>
 
 <hr>
@@ -225,11 +224,11 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 - `IEEE Sensors Journal 2023` [Real-time Defect Detection Scheme Based on Deep Learning for Laser Welding System](https://doi.org/10.1109/JSEN.2023.3277732),  Peng Peng, Kui Fan,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Hongping Zhou, Zhongyi Guo*, IEEE Sensors Journal, vol. 23, no. 15, pp. 17301-17309. [<strong>中科院2区 | JCR 1区 | IF4.3</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (IEEE Sensors Journal) MSCNN-BiLSTM-AM.pdf)  
 
-  <hr>
+<hr>
 
 - `Phys. Scr. 2023` [High-performance deep-learning based polarization computational ghost imaging with random patterns and orthonormalization](https://doi.org/10.1088/1402-4896/acd089),  Chenxiang Xu, Dekui Li,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Bing Lin, Kai Guo, Zhiping Yin, Zhongyi Guo*, Phys. Scr. 2023, Vol.98, Issue 6. [<strong>中科院3区 | JCR 2区 | IF2.9</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (Physica Scripta) IU-net.pdf)  
 
-  <hr>
+<hr>
 
 - `Photonics 2023` [High-Performance Polarization Imaging Reconstruction in Scattering System under Natural Light Conditions with an Improved U-Net](https://doi.org/10.3390/photonics10020204),  Bing Lin,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Dekui Li, Zhongyi Guo*, Photonics 2023, 10, 204. [<strong>中科院3区 | JCR 3区 | IF2.4</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (Photonics) MU-net.pdf)  
 
@@ -261,21 +260,21 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 - `Computer Science 2021` [Improving RNA Base Interactions Prediction Based on Transfer Learning and Multi-view Feature Fusion (In Chinese)](https://www.jsjkx.com/CN/10.11896/jsjkx.211200186),  Xiaofei Wang,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Zhangwei Li*, Computer Science, 2023, 50(3): 164-172. [**PDF**](https://xueqiangf.github.io/doc/2021 (计算机科学) 基于迁移学习和多视图特征融...提高RNA碱基相互作用预测.pdf)  
 
-  <hr>
+<hr>
 
 - `Analytical Biochemistry 2022` [Predicting RNA solvent accessibility from multi-scale context feature via multi-shot neural network](https://doi.org/10.1016/j.ab.2022.114802), **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Jun Hu *, Yuxuan Tang, Dongjun Yu *, Guijun Zhang *, Analytical Biochemistry, 2022, 654: 114802. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Analytical Biochemistry) M2pred.pdf) | [**Code**](https://github.com/XueqiangF/M2pred)
 
-  <hr>
+<hr>
 
-  <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
-      <div class="badge">Analytical Biochemistry. 2021</div>
-  	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/2021 (Analytical Biochemistry) DMVFL-RSA.jpg"></dt>
-  	<dd><a href="https://doi.org/10.1016/j.ab.2021.114358"><strong>Improved protein relative solvent accessibility prediction using deep multi-view feature learning framework</strong> 
-  	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ab.2021.114358" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
-  	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Jun Hu*, Ningxin Jia, Dongjun Yu*, Guijun Zhang*</dd>
-   	<dd><strong>Analytical Biochemistry, 2021, 631: 114358. [中科院3区 TOP|JCR 2区|IF3.65]</strong></dd>
-      <dd><a href="https://xueqiangf.github.io/doc/2021 (Analytical Biochemistry) DMVFL-RSA.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/DMVFL-RSA" target="_blank">Code</a> | <a href="http://202.119.84.36:3079/dmvflrsa/" target="_blank">Web Server</a> </dd>
-  </dl>
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Analytical Biochemistry. 2021</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/2021 (Analytical Biochemistry) DMVFL-RSA.jpg"></dt>
+	<dd><a href="https://doi.org/10.1016/j.ab.2021.114358"><strong>Improved protein relative solvent accessibility prediction using deep multi-view feature learning framework</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.ab.2021.114358" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Jun Hu*, Ningxin Jia, Dongjun Yu*, Guijun Zhang*</dd>
+ 	<dd><strong>Analytical Biochemistry, 2021, 631: 114358. [中科院3区 TOP|JCR 2区|IF3.65]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/2021 (Analytical Biochemistry) DMVFL-RSA.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/DMVFL-RSA" target="_blank">Code</a> | <a href="http://202.119.84.36:3079/dmvflrsa/" target="_blank">Web Server</a> </dd>
+</dl>
 
 
 
