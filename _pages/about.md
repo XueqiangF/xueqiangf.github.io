@@ -106,6 +106,10 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <hr>
 
+
+
+
+
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Manuscript LSTSM 2024</div>
 	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/LSTSM.png"></dt>
@@ -166,7 +170,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 <hr>
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Opt. Lasers Eng. 2024</div>
-	<dt><img align="left" width="400" height="300" hspace="10" wspace="20" src="../images/PSI-LGCPFL.png"></dt>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/PSI-LGCPFL.png"></dt>
 	<dd><a href="https://doi.org/10.1016/j.optlaseng.2024.108194"><strong>Improved Polarization Scattering Imaging Using Local-Global Context Polarization Feature Learning Framework</strong> 
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.optlaseng.2024.108194" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Weiyun Chen, Bing Lin, Peng Peng, Zhongyi Guo*</dd>
