@@ -102,10 +102,8 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<span class="__dimensions_badge_embed__" data-doi="10.1109/TITS.2024.3383405" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Zhongyi Guo*</dd>
  	<dd><strong>IEEE Trans. Intell. Transp. Syst., 25(9), 12762-12775, 2024. [中科院1区 TOP/CCF B/JCR 1区/IF8.5]</strong></dd>
-    <dd><a href="https://xueqiangf.github.io/doc/2024 (IEEE Trans. Intell. Transp. Syst.) LMPC2D3DCNet.pdf" target="_blank">PDF</a></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/2024 (IEEE Trans. Intell. Transp. Syst.) LMPC2D3DCNet.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/LMPC2D3DCNet", target="_blank">Code</a></dd>
 </dl>
-
-
 
 
 <hr>
