@@ -142,7 +142,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">IEEE TCBB 2024</div>
-	<dt><img align="left" width="400" height="300" hspace="10" wspace="20" src="../images/Ense-i6mA.png"></dt>
+	<dt> <style="padding:20px;width:25%;vertical-align:middle;border-bottom: 2px dashed black;"> <img align="left" width="400" hspace="10" wspace="20" src="../images/Ense-i6mA.png"></dt>
 	<dd><a href="https://doi.org/10.1109/TCBB.2024.3421228"><strong>Ense-i6mA: Identification of DNA N6-methyladenine Sites Using XGB-RFE Feature Selection and Ensemble Machine Learning</strong> 
 	<span class="__dimensions_badge_embed__" data-doi="10.1109/TCBB.2024.3421228" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Jun Hu*, Zhongyi Guo*</dd>
@@ -166,7 +166,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 <hr>
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Opt. Lasers Eng. 2024</div>
-	<dt><img align="left" width="400" height="200" hspace="10" wspace="20" src="../images/PSI-LGCPFL.png"></dt>
+	<dt><img align="left" width="400" height="300" hspace="10" wspace="20" src="../images/PSI-LGCPFL.png"></dt>
 	<dd><a href="https://doi.org/10.1016/j.optlaseng.2024.108194"><strong>Improved Polarization Scattering Imaging Using Local-Global Context Polarization Feature Learning Framework</strong> 
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.optlaseng.2024.108194" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Weiyun Chen, Bing Lin, Peng Peng, Zhongyi Guo*</dd>
