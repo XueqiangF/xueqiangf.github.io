@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xueqiang Fan's Homepage"
-description              : "fanxueqqqiang@gamil.com"
+description              : "School of Computer and Information, Information and Communication Engineering, Hefei University of Technology"
 repository               : "XueqiangF/XueqiangF.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xueqiang Fan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PHD candidate School of Computer and Information, Information and Communication Engineering, Hefei University of Technology"
+  bio              : "PHD Candidate"
   location         : "Hefei, CHINA"
   employer         :
   pubmed           :
