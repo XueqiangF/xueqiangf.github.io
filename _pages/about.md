@@ -258,7 +258,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <hr>
 
-- `Analytical Biochemistry 2022` [Predicting RNA solvent accessibility from multi-scale context feature via multi-shot neural network](https://doi.org/10.1016/j.ab.2022.114802),  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Jun Hu*, Yuxuan Tang, Dongjun Yu *, Guijun Zhang *, Analytical Biochemistry, 2022, 654: 114802. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Analytical Biochemistry) M2pred.pdf) | [**Code**](https://github.com/XueqiangF/M2pred)
+- `Analytical Biochemistry 2022` [Predicting RNA solvent accessibility from multi-scale context feature via multi-shot neural network](https://doi.org/10.1016/j.ab.2022.114802),  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Jun Hu*, Yuxuan Tang, Dongjun Yu *, Guijun Zhang *, Analytical Biochemistry, 2022, 654: 114802. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Analytical Biochemistry) M2pred.pdf)
 
 <hr>
 
@@ -306,10 +306,10 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 - *Sep. 2015 - Jun. 2019*, B.S. Henan University of Urban Construction, Pingdingshan, China
 
 <dl> <div id="clustrmaps-widget" style="width:10%">
-         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2BweIWSM3HLBD5I06v8_38hePTTv2bFlfePGeKunuU4"></script> </div>
-<div id="clustrmaps-widget" style="width:40%">
-		 <p><right>
-		 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
+<p><center><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2BweIWSM3HLBD5I06v8_38hePTTv2bFlfePGeKunuU4"></script> 
+</div>
+<div id="clustrmaps-widget" style="width:40%"><p><right><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
+</div></dl>
 
-# Miscellaneous
+
 
