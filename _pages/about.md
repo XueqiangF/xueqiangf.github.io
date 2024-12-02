@@ -56,7 +56,7 @@ redirect_from:
 
 Currently I am alive. My name is Xueqiang Fan (樊学强), I'm a 4<sup>th</sup>-year PHD student at the School of Computer Science, Information and Communication Engineering, Hefei University of Technology, supervised by Prof. [Zhongyi Guo](https://scholar.google.com/citations?hl=zh-CN&user=pUjROEwAAAAJ). 
 
-My curriculum vitae (**CV**) can be downloaded here ([**English**](https://github.com/XueqiangF/xueqiangf.github.io/blob/main/Xue-QiangFAN-EN-CV.pdf) & [**Chinese**](https://github.com/XueqiangF/xueqiangf.github.io/blob/main/Xue-QiangFAN-CV.pdf)).
+My curriculum vitae (**CV**) can be downloaded here ([**English**](https://github.com/XueqiangF/xueqiangf.github.io/Xue-QiangFAN-EN-CV.pdf) & [**Chinese**](https://github.com/XueqiangF/xueqiangf.github.io/Xue-QiangFAN-CV.pdf)).
 
 <!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
 
@@ -102,7 +102,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<span class="__dimensions_badge_embed__" data-doi="10.1109/TITS.2024.3383405" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Zhongyi Guo*</dd>
  	<dd><strong>IEEE Trans. Intell. Transp. Syst., 25(9), 12762-12775, 2024. [中科院1区 TOP/CCF B/JCR 1区/IF8.5]</strong></dd>
-    <dd><a href="https://xueqiangf.github.io/doc/2024 (IEEE Trans. Intell. Transp. Syst.) LMPC2D3DCNet.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/LMPC2D3DCNet", target="_blank">Code</a></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/2024 (IEEE Trans. Intell. Transp. Syst.) LMPC2D3DCNet.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/LMPC2D3DCNet" target="_blank">Code</a></dd>
 </dl>
 
 
