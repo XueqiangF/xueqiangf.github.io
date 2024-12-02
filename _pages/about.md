@@ -95,6 +95,57 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 **&dagger; Equal Contribution   *Corresponding authors**   
 
+##  📝 Manuscripts
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Manuscript FuseISP 2024</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FuseISP.png"></dt>
+	<dd><strong>Joint intensity-spectral polarization hierarchical fusion guided efficient transparent object detection</strong></dd> 
+ 	<dd><strong>Under Review</strong></dd>
+</dl>
+
+
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Manuscript LSTSM 2024</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/LSTSM.png"></dt>
+	<dd><strong>LSTSM (Learning to See Through the Scattering Media): Towards a general-purpose framework for multi-modality polarization scattering imaging</strong></dd> 
+ 	<dd><strong>Under Review</strong></dd>
+</dl>
+
+
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Manuscript Meta-DUNET-UPI 2023</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/Meta-DUNET-UPI.png"></dt>
+	<dd><strong>Meta-DUNET-UPI: Improving polarization imaging through highly turbid underwater using a deformable network and meta-learning</strong></dd> 
+ 	<dd><strong>Under Review</strong></dd>
+</dl>
+
+
+
+## 📝 Published
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">IEEE TITS 2024</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/LMPC2D3DCNet.png"></dt>
+	<dd><a href="https://doi.org/10.1109/TITS.2024.3383405"><strong>Infrared Polarization-Empowered Full-Time Road Detection via Lightweight Multi-Pathway Collaborative 2D/3D Convolutional Networks</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1109/TITS.2024.3383405" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Zhongyi Guo *</dd>
+ 	<dd><strong>IEEE Trans. Intell. Transp. Syst., 25(9), 12762-12775, 2024. [中科院1区 TOP | CCF B | JCR 1区 | IF8.5]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/2024 (IEEE Trans. Intell. Transp. Syst.) LMPC2D3DCNet.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/LMPC2D3DCNet" target="_blank">Code</a></dd>
+</dl>
+
+
+
+
+
+- ``Analytical Biochemistry 2020`` [Identification of ligand-binding residues using protein sequence profile alignment and query-specific support vector machine model](https://doi.org/10.1016/j.ab.2020.113799),  Jun Hu *, Liang Rao,  **<font style="font-style:oblique"><strong>Xue-Qiang Fan</strong></font>**, Dong-Jun Yu *, Gui-Jun Zhang *, Analytical biochemistry, 2020, 604: 113799. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2020 (Analytical Biochemistry ) I-LBR.pdf)  
+
+
+
+
+
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">IEEE TITS 2024</div>
 	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/LMPC2D3DCNet.png"></dt>
@@ -105,35 +156,6 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
     <dd><a href="https://xueqiangf.github.io/doc/2024 (IEEE Trans. Intell. Transp. Syst.) LMPC2D3DCNet.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/LMPC2D3DCNet" target="_blank">Code</a></dd>
 </dl>
 
-
-<hr>
-# 📝 Manuscripts
-
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/EARTH.png">
-</dt>
-  <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Zewen Liu, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
-<dd>under review, 2024</dd>
-
-</dl>
-
-
-<hr>
-
-
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedTGE.png">
-</dt>
-  <dd><a href=""><strong>	
-Energy-based Backdoor Defense Against Federated Graph Learning
-</strong></a></dd>
-<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
-<dd>under review, 2024</dd>
 
 
 </dl>
