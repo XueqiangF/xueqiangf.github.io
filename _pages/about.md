@@ -129,22 +129,28 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 ## 📝 Published
 
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
-    <div class="badge">IEEE TITS 2024</div>
-	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/LMPC2D3DCNet.png"></dt>
-	<dd><a href="https://doi.org/10.1109/TITS.2024.3383405"><strong>Infrared Polarization-Empowered Full-Time Road Detection via Lightweight Multi-Pathway Collaborative 2D/3D Convolutional Networks</strong> 
-	<span class="__dimensions_badge_embed__" data-doi="10.1109/TITS.2024.3383405" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
-	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Zhongyi Guo *</dd>
- 	<dd><strong>IEEE Trans. Intell. Transp. Syst., 25(9), 12762-12775, 2024. [中科院1区 TOP | CCF B | JCR 1区 | IF8.5]</strong></dd>
-    <dd><a href="https://xueqiangf.github.io/doc/2024 (IEEE Trans. Intell. Transp. Syst.) LMPC2D3DCNet.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/LMPC2D3DCNet" target="_blank">Code</a></dd>
+    <div class="badge">Opt. Laser Technol. 2025</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/TIU-Net.jpg"></dt>
+	<dd><a href="10.1016/j.optlastec.2024.111664"><strong>Transformer-based improved U-net for high-performance underwater polarization imaging</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.optlastec.2024.111664" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd>Bing Lin, Weiyun Chen, <font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Peng Peng, Zhongyi Guo *</dd>
+ 	<dd><strong>Optics & Laser Technology 181 (2025) 111664. [中科院2区 TOP | JCR 1区 | IF4.6]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/20240827 (Opt. Laser Technol.) TIU-Net.pdf" target="_blank">PDF</a></dd>
 </dl>
 
 <hr>
 
-``Analytical Biochemistry 2020`` [Identification of ligand-binding residues using protein sequence profile alignment and query-specific support vector machine model](https://doi.org/10.1016/j.ab.2020.113799),  Jun Hu *, Liang Rao,  **<font style="font-style:oblique"><strong>Xue-Qiang Fan</strong></font>**, Dong-Jun Yu *, Gui-Jun Zhang *, Analytical biochemistry, 2020, 604: 113799. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2020 (Analytical Biochemistry ) I-LBR.pdf)  
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">IEEE TCBB 2024</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/Ense-i6mA.png"></dt>
+	<dd><a href="https://doi.org/10.1109/TCBB.2024.3421228"><strong>Ense-i6mA: Identification of DNA N6-methyladenine Sites Using XGB-RFE Feature Selection and Ensemble Machine Learning</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1109/TCBB.2024.3421228" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Jun Hu*, Zhongyi Guo*</dd>
+ 	<dd><strong>IEEE/ACM Trans. Comput. Biol. Bioinf., 2024. [中科院3区 | CCF B | JCR 1区 | IF4.5]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/20240625 (IEEE-ACM Trans. Comput. Biol. Bioinf.) Ense-i6mA.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/Ense-i6mA" target="_blank">Code</a></dd>
+</dl>
 
 <hr>
-
-
 
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">IEEE TITS 2024</div>
@@ -152,47 +158,13 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dd><a href="https://doi.org/10.1109/TITS.2024.3383405"><strong>Infrared Polarization-Empowered Full-Time Road Detection via Lightweight Multi-Pathway Collaborative 2D/3D Convolutional Networks</strong> 
 	<span class="__dimensions_badge_embed__" data-doi="10.1109/TITS.2024.3383405" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Zhongyi Guo*</dd>
- 	<dd><strong>IEEE Trans. Intell. Transp. Syst., 25(9), 12762-12775, 2024. [中科院1区 TOP/CCF B/JCR 1区/IF8.5]</strong></dd>
+ 	<dd><strong>IEEE Trans. Intell. Transp. Syst., 25(9), 12762-12775, 2024. [中科院1区 TOP | CCF B | JCR 1区 | IF8.5]</strong></dd>
     <dd><a href="https://xueqiangf.github.io/doc/2024 (IEEE Trans. Intell. Transp. Syst.) LMPC2D3DCNet.pdf" target="_blank">PDF</a> | <a href="https://github.com/XueqiangF/LMPC2D3DCNet" target="_blank">Code</a></dd>
 </dl>
 
 
-
-</dl>
-
 <hr>
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/EAGLES.png">
-</dt>
-  <dd><a href=""><strong>	
-EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
-</strong></a></dd>
-<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
-<dd>under review, 2024</dd>
-
-
-</dl>
-
-<hr>
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedSPA.png">
-</dt>
-  <dd><a href=""><strong>	
-FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
-</strong></a></dd>
-<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
-<dd>under review, 2024</dd>
-
-
-</dl>
-
-
-<hr>
-
+- `Analytical Biochemistry 2020` [Identification of ligand-binding residues using protein sequence profile alignment and query-specific support vector machine model](https://doi.org/10.1016/j.ab.2020.113799),  Jun Hu *, Liang Rao,  **<font style="font-style:oblique"><strong>Xue-Qiang Fan</strong></font>**, Dong-Jun Yu *, Gui-Jun Zhang *, Analytical biochemistry, 2020, 604: 113799. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2020 (Analytical Biochemistry ) I-LBR.pdf)  
 
 
 # 🎡 Service
