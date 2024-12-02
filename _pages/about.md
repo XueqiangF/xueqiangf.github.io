@@ -309,16 +309,10 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2BweIWSM3HLBD5I06v8_38hePTTv2bFlfePGeKunuU4"></script> 
 </div>
 <div id="clustrmaps-widget" style="width:40%"><p><right><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
-</div>
 
 <br/>
 
-<hr>
 
 # 🙇 Miscellaneous
-
-
-
-
 
 <br/>
