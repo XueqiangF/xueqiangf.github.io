@@ -56,7 +56,7 @@ redirect_from:
 
 Currently I am alive. My name is Xueqiang Fan (樊学强), I'm a 4<sup>th</sup>-year PHD student at the School of Computer Science, Information and Communication Engineering, Hefei University of Technology, supervised by Prof. [Zhongyi Guo](https://scholar.google.com/citations?hl=zh-CN&user=pUjROEwAAAAJ). 
 
-My curriculum vitae (**CV**) can be downloaded here ([**English**](https://github.com/XueqiangF/xueqiangf.github.io/Xue-QiangFAN-EN-CV.pdf) & [**Chinese**](https://github.com/XueqiangF/xueqiangf.github.io/Xue-QiangFAN-CV.pdf)).
+My curriculum vitae (**CV**) can be downloaded here ([**English**](https://xueqiangf.github.io/Xue-QiangFAN-EN-CV.pdf) & [**Chinese**](https://xueqiangf.github.io/Xue-QiangFAN-CV.pdf)).
 
 <!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
 
