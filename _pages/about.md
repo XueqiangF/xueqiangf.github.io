@@ -258,11 +258,11 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <hr>
 
-- `Computer Science 2022` [Improving RNA Base Interactions Prediction Based on Transfer Learning and Multi-view Feature Fusion (In Chinese)](https://www.jsjkx.com/CN/10.11896/jsjkx.211200186),  Xiaofei Wang,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Zhangwei Li*, Computer Science, 2023, 50(3): 164-172. [**PDF**](https://xueqiangf.github.io/doc/2021 (计算机科学) 基于迁移学习和多视图特征融...提高RNA碱基相互作用预测.pdf)  
+- `Analytical Biochemistry 2022` [Predicting RNA solvent accessibility from multi-scale context feature via multi-shot neural network](https://doi.org/10.1016/j.ab.2022.114802),  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Jun Hu*, Yuxuan Tang, Dongjun Yu *, Guijun Zhang *, Analytical Biochemistry, 2022, 654: 114802. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Analytical Biochemistry) M2pred.pdf) | [**Code**](https://github.com/XueqiangF/M2pred)
 
 <hr>
 
-- `Analytical Biochemistry 2022` [Predicting RNA solvent accessibility from multi-scale context feature via multi-shot neural network](https://doi.org/10.1016/j.ab.2022.114802), **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Jun Hu *, Yuxuan Tang, Dong-Jun Yu *, Gui-Jun Zhang *, Analytical Biochemistry, 2022, 654: 114802. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2020 (Analytical Biochemistry ) I-LBR.pdf) | [**Code**](https://github.com/XueqiangF/M2pred)
+- `Computer Science 2022` [Improving RNA Base Interactions Prediction Based on Transfer Learning and Multi-view Feature Fusion (In Chinese)](https://www.jsjkx.com/CN/10.11896/jsjkx.211200186),  Xiaofei Wang,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Zhangwei Li*, Computer Science, 2023, 50(3): 164-172. [**PDF**](https://xueqiangf.github.io/doc/2021 (计算机科学) 基于迁移学习和多视图特征融...提高RNA碱基相互作用预测.pdf)  
 
 <hr>
 
@@ -309,7 +309,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2BweIWSM3HLBD5I06v8_38hePTTv2bFlfePGeKunuU4"></script> </div>
 <div id="clustrmaps-widget" style="width:40%">
 		 <p><right>
-		 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script></div></dl>
+		 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
 
 # Miscellaneous
 
