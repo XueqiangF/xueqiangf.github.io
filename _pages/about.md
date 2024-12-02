@@ -142,7 +142,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">IEEE TCBB 2024</div>
-	<dt><img align="left" width="400" height="200" hspace="10" wspace="20" src="../images/Ense-i6mA.png"></dt>
+	<dt><img align="left" width="200" height="400" hspace="10" wspace="20" src="../images/Ense-i6mA.png"></dt>
 	<dd><a href="https://doi.org/10.1109/TCBB.2024.3421228"><strong>Ense-i6mA: Identification of DNA N6-methyladenine Sites Using XGB-RFE Feature Selection and Ensemble Machine Learning</strong> 
 	<span class="__dimensions_badge_embed__" data-doi="10.1109/TCBB.2024.3421228" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Bing Lin, Jun Hu*, Zhongyi Guo*</dd>
@@ -177,6 +177,8 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 <hr>
 
 - `Analytical Biochemistry 2020` [Identification of ligand-binding residues using protein sequence profile alignment and query-specific support vector machine model](https://doi.org/10.1016/j.ab.2020.113799),  Jun Hu *, Liang Rao,  **<font style="font-style:oblique"><strong>Xue-Qiang Fan</strong></font>**, Dong-Jun Yu *, Gui-Jun Zhang *, Analytical biochemistry, 2020, 604: 113799. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2020 (Analytical Biochemistry ) I-LBR.pdf)  
+
+<hr>
 
 
 # 🎡 Service
