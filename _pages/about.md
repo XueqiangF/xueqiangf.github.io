@@ -63,8 +63,6 @@ My curriculum vitae (**CV**) can be downloaded here ([**English**](https://xueqi
 <!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
-"All things are interconnected, this is the essence of nature." 
-
  🌟 Now, my primary research interest is to design effective visual understanding models for visual systems, involving <strong>Artificial Intelligence, Pattern Recognition, and Polarization Vision</strong>. <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
 Specifically, my recent endeavor is on <strong>Polarization Scattering Imaging</strong>, aiming to reconstruct objects hidden inside scattering  media (e.g., turbid water and haze) from speckle pattern-carrying polarization information. I am also conducting research on <strong>Scene Confusing-Discovery</strong>, using Polarization Information to mine the <strong>Camouflaged/Confusing/Special</strong> yet meaningful object/region in the scene. These objects are very common in daily life scenes but can confuse the vision systems due to their inherently special properties. I am pursuing exploring <strong>useful cues based on Polarization and effective methods for accurate detection</strong>. <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
@@ -77,6 +75,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <div style="max-height: 350px; overflow-y: auto;">
 <ul>
+  <li><em>2025.01.21/25:</em> I serve as a reviewer for <strong>The Journal of Supercomputing, Scientific Reports</strong>.</li>
   <li><em>2024.11.06:</em> 🎈🎈🎈I was honored with <strong>National Scholarship</strong>.</li>
   <li><em>2024.09.23:</em> I serve as a reviewer for <strong>BioData Mining</strong>.</li>
   <li><em>2024.08.27:</em> ✨✨✨ Our paper entitled "Transformer-based improved U-net for high-performance underwater polarization imaging" was accepted by <strong>Optics & Laser Technology</strong> (中科院2区 TOP, IF=4.60).</li>
@@ -91,6 +90,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
   <li><em>2021.08.29:</em> ✨✨✨ One paper as the <strong>First Author</strong> entitled "Improved protein relative solvent accessibility prediction using deep multi-view feature learning framework" was accepted by <strong>Anal. Biochem.</strong> (中科院3区, IF=3.65)</li>
 </ul>
 </div><br/>
+
 # 📃 Publications 
 
 **&dagger; Equal Contribution   *Corresponding authors**   
@@ -222,7 +222,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <hr>
 
-- `IEEE Sensors Journal 2023` [Real-time Defect Detection Scheme Based on Deep Learning for Laser Welding System](https://doi.org/10.1109/JSEN.2023.3277732),  Peng Peng, Kui Fan,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Hongping Zhou, Zhongyi Guo*, IEEE Sensors Journal, vol. 23, no. 15, pp. 17301-17309. [<strong>中科院2区 | JCR 1区 | IF4.3</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (IEEE Sensors Journal) MSCNN-BiLSTM-AM.pdf)  
+- ``IEEE Sensors Journal 2023`` [Real-time Defect Detection Scheme Based on Deep Learning for Laser Welding System](https://doi.org/10.1109/JSEN.2023.3277732),  Peng Peng, Kui Fan,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Hongping Zhou, Zhongyi Guo*, IEEE Sensors Journal, vol. 23, no. 15, pp. 17301-17309. [<strong>中科院2区 | JCR 1区 | IF4.3</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (IEEE Sensors Journal) MSCNN-BiLSTM-AM.pdf)  
 
 <hr>
 
@@ -285,7 +285,9 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 # 🎡 Service
 ##  Journal Reviewer
-- Reviewer for BioData Mining <!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
+- Reviewer for Journal of Supercomputing 
+- Reviewer for Scientific Reports 
+- Reviewer for BioData Mining
 
 <br/>
 
@@ -311,7 +313,6 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 <div id="clustrmaps-widget" style="width:40%"><p><right><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
 
 <br/>
-
 
 # 🙇 Miscellaneous
 
