@@ -115,24 +115,28 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/LSTSM.png"></dt>
 	<dd><strong>LSTSM (Learning to See Through the Scattering Media): Towards a general-purpose framework for multi-modality polarization scattering imaging</strong></dd> 
  	<dd><strong>Under Review</strong></dd>
-
 </dl>
 
 <hr>
-
-<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
-    <div class="badge">Manuscript Meta-DUNET-UPI 2023</div>
-	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/Meta-DUNET-UPI.png"></dt>
-	<dd><strong>Meta-DUNET-UPI: Improving polarization imaging through highly turbid underwater using a deformable network and meta-learning</strong></dd> 
- 	<dd><strong>Under Review</strong></dd>
-
-</dl>
 
 <hr>
 
 <hr>
 
 ## 📝 Published
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Opt. Laser Technol. 2025</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/Meta-UNET-UPI.jpg"></dt>
+	<dd><a href="10.1016/j.optlastec.2025.112900"><strong>Meta-DNET-UPI: Efficient underwater polarization imaging combining deformable convolutional networks and meta-learning</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.optlastec.2025.112900" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Menglei Ding, Tianyi Lv, Xixun Sun, Bing Lin, Zhongyi Guo *</dd>
+ 	<dd><strong>Optics & Laser Technology 187 (2025) 112900. [中科院2区 TOP|JCR 1区|IF4.6]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/20250327 (Opt. Laser Technol.) Meta-DNET-UPI.pdf" target="_blank">PDF</a></dd>
+
+
+    </dl>
+
 
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Opt. Laser Technol. 2025</div>
