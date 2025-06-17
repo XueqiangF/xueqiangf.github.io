@@ -98,11 +98,33 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 ##  📝 Manuscripts
 
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Manuscript S2UPiP2N2 2025</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/S2UPiP2N2.png"></dt>
+	<dd><strong>Model-Informed Semi-Supervised and Explainable Framework for Underwater Polarization Imaging</strong></dd> 
+ 	<dd><strong>Under Review</strong></dd>
+</dl>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Manuscript FuseISP 2024</div>
 	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FuseISP.png"></dt>
 	<dd><strong>Joint intensity-spectral polarization hierarchical fusion guided efficient transparent object detection</strong></dd> 
  	<dd><strong>Under Review</strong></dd>
 </dl>
+
 
 <hr>
 
@@ -289,9 +311,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 # 🎡 Service
 ##  Journal Reviewer
-- Reviewer for Journal of Supercomputing 
-- Reviewer for Scientific Reports 
-- Reviewer for BioData Mining
+- Reviewer for IEEE T-ITS, Infrared Physics and Technology, Journal of Supercomputing, Scientific Reports, BioData Mining
 
 <br/>
 
