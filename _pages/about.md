@@ -75,6 +75,8 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <div style="max-height: 350px; overflow-y: auto;">
 <ul>
+  <li><em>2025.04.01/2025.06.25:</em> ✨✨✨ Two paper as the <strong>First Author</strong> entitled "Meta-DNET-UPI: Efficient Underwater Polarization Imaging Combining Deformable Convolutional Networks and Meta-learning" and "Joint intensity-spectral polarization hierarchical fusion guided efficient transparent object detection" were accepted by <strong>Optics & Laser Technology</strong> (中科院2区 TOP, IF=5.0).</li>
+  <li><em>2025.06.16/17:</em> I serve as a reviewer for <strong>Transactions on Intelligent Transportation Systems, Infrared Physics and Technology</strong>.</li>
   <li><em>2025.01.21/25:</em> I serve as a reviewer for <strong>The Journal of Supercomputing, Scientific Reports</strong>.</li>
   <li><em>2024.11.06:</em> 🎈🎈🎈I was honored with <strong>National Scholarship</strong>.</li>
   <li><em>2024.09.23:</em> I serve as a reviewer for <strong>BioData Mining</strong>.</li>
@@ -90,6 +92,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
   <li><em>2021.08.29:</em> ✨✨✨ One paper as the <strong>First Author</strong> entitled "Improved protein relative solvent accessibility prediction using deep multi-view feature learning framework" was accepted by <strong>Anal. Biochem.</strong> (中科院3区, IF=3.65)</li>
 </ul>
 </div><br/>
+
 
 # 📃 Publications 
 
@@ -115,23 +118,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 
 
-
-
-
-
-
-<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
-    <div class="badge">Manuscript FuseISP 2024</div>
-	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FuseISP.png"></dt>
-	<dd><strong>Joint intensity-spectral polarization hierarchical fusion guided efficient transparent object detection</strong></dd> 
- 	<dd><strong>Under Review</strong></dd>
-</dl>
-
-
 <hr>
-
-
-
 
 
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
@@ -146,8 +133,16 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 
 
-
 ## 📝 Published
+
+<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
+    <div class="badge">Opt. Laser Technol. 2025</div>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FuseISP.png"></dt>
+	<dd><a href="10.1016/j.optlastec.2025.113429"><strong>Joint intensity-spectral polarization hierarchical fusion guided efficient transparent object detection</strong> 
+	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.optlastec.2025.113429" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
+	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Longyu Qiao, Bing Lin, Zhongyi Guo *</dd>
+ 	<dd><strong>Optics & Laser Technology 192 (2025) 113429. [中科院2区 TOP|JCR 1区|IF5.0]</strong></dd>
+    <dd><a href="https://xueqiangf.github.io/doc/20250625 (Opt. Laser Technol.) FuseISP.pdf" target="_blank">PDF</a></dd>
 
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Opt. Laser Technol. 2025</div>
