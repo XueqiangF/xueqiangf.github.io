@@ -144,29 +144,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
  	<dd><strong>Optics & Laser Technology 192 (2025) 113429. [中科院2区 TOP|JCR 1区|IF5.0]</strong></dd>
     <dd><a href="https://xueqiangf.github.io/doc/20250625 (Opt. Laser Technol.) FuseISP.pdf" target="_blank">PDF</a></dd>
 
-<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
-    <div class="badge">Opt. Laser Technol. 2025</div>
-	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/Meta-UNET-UPI.jpg"></dt>
-	<dd><a href="10.1016/j.optlastec.2025.112900"><strong>Meta-DNET-UPI: Efficient underwater polarization imaging combining deformable convolutional networks and meta-learning</strong> 
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.optlastec.2025.112900" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
-	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Menglei Ding, Tianyi Lv, Xixun Sun, Bing Lin, Zhongyi Guo *</dd>
- 	<dd><strong>Optics & Laser Technology 187 (2025) 112900. [中科院2区 TOP|JCR 1区|IF4.6]</strong></dd>
-    <dd><a href="https://xueqiangf.github.io/doc/20250327 (Opt. Laser Technol.) Meta-DNET-UPI.pdf" target="_blank">PDF</a></dd>
-
-
-    </dl>
-
-
-<dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
-    <div class="badge">Opt. Laser Technol. 2025</div>
-	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/TIU-Net.jpg"></dt>
-	<dd><a href="10.1016/j.optlastec.2024.111664"><strong>Transformer-based improved U-net for high-performance underwater polarization imaging</strong> 
-	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.optlastec.2024.111664" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
-	<dd>Bing Lin, Weiyun Chen, <font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Peng Peng, Zhongyi Guo *</dd>
- 	<dd><strong>Optics & Laser Technology 181 (2025) 111664. [中科院2区 TOP|JCR 1区|IF4.6]</strong></dd>
-    <dd><a href="https://xueqiangf.github.io/doc/20240827 (Opt. Laser Technol.) TIU-Net.pdf" target="_blank">PDF</a></dd>
-
-</dl>
+​    </dl>
 
 <hr>
 
@@ -245,15 +223,15 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <hr>
 
-- ``IEEE Sensors Journal 2023`` [Real-time Defect Detection Scheme Based on Deep Learning for Laser Welding System](https://doi.org/10.1109/JSEN.2023.3277732),  Peng Peng, Kui Fan,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Hongping Zhou, Zhongyi Guo*, IEEE Sensors Journal, vol. 23, no. 15, pp. 17301-17309. [<strong>中科院2区 | JCR 1区 | IF4.3</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (IEEE Sensors Journal) MSCNN-BiLSTM-AM.pdf)  
+- `IEEE Sensors Journal 2023` [Real-time Defect Detection Scheme Based on Deep Learning for Laser Welding System](https://doi.org/10.1109/JSEN.2023.3277732), Peng Peng, Kui Fan,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Hongping Zhou, Zhongyi Guo*, IEEE Sensors Journal, vol. 23, no. 15, pp. 17301-17309. [<strong>中科院2区 | JCR 1区 | IF4.3</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (IEEE Sensors Journal) MSCNN-BiLSTM-AM.pdf)  
 
 <hr>
 
-- `Phys. Scr. 2023` [High-performance deep-learning based polarization computational ghost imaging with random patterns and orthonormalization](https://doi.org/10.1088/1402-4896/acd089),  Chenxiang Xu, Dekui Li,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Bing Lin, Kai Guo, Zhiping Yin, Zhongyi Guo*, Phys. Scr. 2023, Vol.98, Issue 6. [<strong>中科院3区 | JCR 2区 | IF2.9</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (Physica Scripta) IU-net.pdf)  
+- `Phys. Scr. 2023` [High-performance deep-learning based polarization computational ghost imaging with random patterns and orthonormalization](https://doi.org/10.1088/1402-4896/acd089), Chenxiang Xu, Dekui Li,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Bing Lin, Kai Guo, Zhiping Yin, Zhongyi Guo*, Phys. Scr. 2023, Vol.98, Issue 6. [<strong>中科院3区 | JCR 2区 | IF2.9</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (Physica Scripta) IU-net.pdf)  
 
 <hr>
 
-- `Photonics 2023` [High-Performance Polarization Imaging Reconstruction in Scattering System under Natural Light Conditions with an Improved U-Net](https://doi.org/10.3390/photonics10020204),  Bing Lin,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Dekui Li, Zhongyi Guo*, Photonics 2023, 10, 204. [<strong>中科院3区 | JCR 3区 | IF2.4</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (Photonics) MU-net.pdf)  
+- `Photonics 2023` [High-Performance Polarization Imaging Reconstruction in Scattering System under Natural Light Conditions with an Improved U-Net](https://doi.org/10.3390/photonics10020204), Bing Lin,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Dekui Li, Zhongyi Guo*, Photonics 2023, 10, 204. [<strong>中科院3区 | JCR 3区 | IF2.4</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (Photonics) MU-net.pdf)  
 
 <hr>
 
@@ -269,11 +247,11 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <hr>
 
-- `Micromachines 2022` [Influencing Effects of Fabrication Errors on Performances of the Dielectric Metalens](https://doi.org/10.3390/mi13122098),  Guoqing Xu, Qianlong Kang,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Guanghui Yang, Kai Guo,  Zhongyi Guo*, Micromachines 13.12 (2022): 2098. [<strong>中科院3区 | JCR 2区 | IF3.4</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Micromachines).pdf)  
+- `Micromachines 2022` [Influencing Effects of Fabrication Errors on Performances of the Dielectric Metalens](https://doi.org/10.3390/mi13122098),  Guoqing Xu, Qianlong Kang, **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Guanghui Yang, Kai Guo,  Zhongyi Guo*, Micromachines 13.12 (2022): 2098. [<strong>中科院3区 | JCR 2区 | IF3.4</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Micromachines).pdf)  
 
 <hr>
 
-- `Chinese Journal of Quantum Electronics 2022` [Research Progress of imaging through scattering media based on the deep learning (In Chinese)](https://doi.org/10.3969/j.issn.1007-5461.2022.06.005),  Bing Lin,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Dekui Li,  Zhongyi Guo*, Chinese Journal of Quantum Electronics, 2022, 39(6): 880-898. [**PDF**](https://xueqiangf.github.io/doc/2022 (量子电子学报) 基于深度学习的散射光场成像研究进展.pdf)  
+- `Chinese Journal of Quantum Electronics 2022` [Research Progress of imaging through scattering media based on the deep learning (In Chinese)](https://doi.org/10.3969/j.issn.1007-5461.2022.06.005), Bing Lin,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Dekui Li,  Zhongyi Guo*, Chinese Journal of Quantum Electronics, 2022, 39(6): 880-898. [**PDF**](https://xueqiangf.github.io/doc/2022 (量子电子学报) 基于深度学习的散射光场成像研究进展.pdf)  
 
 <hr>
 
@@ -281,11 +259,11 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 <hr>
 
-- `Analytical Biochemistry 2022` [Predicting RNA solvent accessibility from multi-scale context feature via multi-shot neural network](https://doi.org/10.1016/j.ab.2022.114802),  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Jun Hu*, Yuxuan Tang, Dongjun Yu *, Guijun Zhang *, Analytical Biochemistry, 2022, 654: 114802. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Analytical Biochemistry) M2pred.pdf)
+- `Analytical Biochemistry 2022` [Predicting RNA solvent accessibility from multi-scale context feature via multi-shot neural network](https://doi.org/10.1016/j.ab.2022.114802), **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Jun Hu*, Yuxuan Tang, Dongjun Yu *, Guijun Zhang *, Analytical Biochemistry, 2022, 654: 114802. [<strong>中科院3区 | JCR 2区 | IF3.65</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2022 (Analytical Biochemistry) M2pred.pdf)
 
 <hr>
 
-- `Computer Science 2022` [Improving RNA Base Interactions Prediction Based on Transfer Learning and Multi-view Feature Fusion (In Chinese)](https://www.jsjkx.com/CN/10.11896/jsjkx.211200186),  Xiaofei Wang,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Zhangwei Li*, Computer Science, 2023, 50(3): 164-172. [**PDF**](https://xueqiangf.github.io/doc/2021 (计算机科学) 基于迁移学习和多视图特征融...提高RNA碱基相互作用预测.pdf)  
+- `Computer Science 2022` [Improving RNA Base Interactions Prediction Based on Transfer Learning and Multi-view Feature Fusion (In Chinese)](https://www.jsjkx.com/CN/10.11896/jsjkx.211200186), Xiaofei Wang,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Zhangwei Li*, Computer Science, 2023, 50(3): 164-172. [**PDF**](https://xueqiangf.github.io/doc/2021 (计算机科学) 基于迁移学习和多视图特征融...提高RNA碱基相互作用预测.pdf)  
 
 <hr>
 
@@ -332,9 +310,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2BweIWSM3HLBD5I06v8_38hePTTv2bFlfePGeKunuU4"></script> 
 </div>
 <div id="clustrmaps-widget" style="width:40%"><p><right><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
-
 <br/>
 
 # 🙇 Miscellaneous
 
-<br/>
