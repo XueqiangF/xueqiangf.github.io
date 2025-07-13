@@ -298,7 +298,6 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 - *2019-2022*  The Scholarship for a Master’s degree, Awarded by Zhejiang University of Technology
 
-
 <br/>
 
 # 📖 Educations
@@ -311,6 +310,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 </div>
 <div id="clustrmaps-widget" style="width:40%"><p><right><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=EwXbKSuD1LRskcv0b2fOfSNTdb1sChVsLEYYMq24eu0&cl=ffffff&w=a"></script>
 <br/>
-
 # 🙇 Miscellaneous
+
+*Running is Life* 
 
