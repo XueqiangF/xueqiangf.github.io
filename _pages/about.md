@@ -146,15 +146,15 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 ​    </dl>
 
 <hr>
-
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Opt. Laser Technol. 2025</div>
-	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/Meta-DUNET-UPI.jpg"></dt>
+	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/Meta-DUNET-UPI.png"></dt>
 	<dd><a href="10.1016/j.optlastec.2025.112900"><strong>Meta-DNET-UPI: Efficient underwater polarization imaging combining deformable convolutional networks and meta-learning</strong> 
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.optlastec.2025.112900" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Menglei Ding, Tianyi Lv, Xixun Sun, Bing Lin, Zhongyi Guo *</dd>
  	<dd><strong>Optics & Laser Technology 187 (2025) 112900. [中科院2区 TOP|JCR 1区|IF5.0]</strong></dd>
     <dd><a href="https://xueqiangf.github.io/doc/20250625 (Opt. Laser Technol.) FuseISP.pdf" target="_blank">PDF</a></dd>
+
 
 </dl>
 
