@@ -56,7 +56,7 @@ redirect_from:
 
 My name is Xueqiang Fan (樊学强), I'm a 4<sup>th</sup>-year PHD student at the School of Computer Science, Information and Communication Engineering, Hefei University of Technology, supervised by Prof. [Zhongyi Guo](https://scholar.google.com/citations?hl=zh-CN&user=pUjROEwAAAAJ). 
 
-My curriculum vitae (**CV**) can be downloaded here ([**English**](https://xueqiangf.github.io/Xue-QiangFAN-EN-CV.pdf) & [**Chinese**](https://xueqiangf.github.io/Xue-QiangFAN-CV.pdf)).
+My curriculum vitae (**CV**) can be downloaded here ([**English**](https://xueqiangf.github.io/XueqiangFAN-EN-CV.pdf) & [**Chinese**](https://xueqiangf.github.io/XueqiangFAN-CV.pdf)).
 
 ***<font style="color:red">As I near the end of my Ph.D. journey, I am looking for career opportunities that align with my passion and drive!</font>***
 
