@@ -58,7 +58,7 @@ My name is Xueqiang Fan (樊学强), I'm a 4<sup>th</sup>-year PHD student at th
 
 My curriculum vitae (**CV**) can be downloaded here ([**English**](https://xueqiangf.github.io/Xue-QiangFAN-EN-CV.pdf) & [**Chinese**](https://xueqiangf.github.io/Xue-QiangFAN-CV.pdf)).
 
-<font style="color:red">**As I near the end of my Ph.D. journey, I am looking for career opportunities that align with my passion and drive!**</font>
+***<font style="color:red">As I near the end of my Ph.D. journey, I am looking for career opportunities that align with my passion and drive!</font>***
 
 <!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
 
