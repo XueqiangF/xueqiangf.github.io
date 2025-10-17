@@ -137,6 +137,13 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 
 ## 📝 Published
 
+<hr>
+
+`Optics Letters 2025` [Polarimetric Observable-based Analysis of Spontaneous Emission in Heterogeneous Layered Scattering Environments](https://doi.org/10.1016/j.optlaseng.2025.109342), Haojie Ding, Xiaopeng Gao,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Zhongyi Guo*,Optics and Lasers in Engineering 195, 109342. [<strong>中科院2区 | JCR 2区 | IF3.7</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2025 (Opt. Lasers. Eng) HLSE.pdf)  
+
+<hr>
+
+
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Opt. Laser Technol. 2025</div>
 	<dt><img align="left" width="400" hspace="10" wspace="20" src="../images/FuseISP.png"></dt>
@@ -144,8 +151,20 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<span class="__dimensions_badge_embed__" data-doi="10.1016/j.optlastec.2025.113429" data-style="large_rectangle" style="display: inline-block"></span> </a></dd>
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Longyu Qiao, Bing Lin, Zhongyi Guo *</dd>
  	<dd><strong>Optics & Laser Technology 192 (2025) 113429. [中科院2区 TOP|JCR 1区|IF5.0]</strong></dd>
-    <dd><a href="https://xueqiangf.github.io/doc/20250625 (Opt. Laser Technol.) FuseISP.pdf" target="_blank">PDF</a></dd>
-​    </dl>
+    <dd><a href="https://xueqiangf.github.io/doc/20250625 (Opt. Laser Technol.) FuseISP.pdf" target="_blank">PDF</a></dd> </dl>
+
+<hr>
+`Laser & Optoelectronics Progress 2025` [Research Advances on Unsupervised Networks-Driven Imaging Through Scattering Media (Invited)](https://dx.doi.org/10.3788/LOP250975), Longyu Qiao, Bing Lin,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Xixun Sun, Zhiyong Peng, Zhongyi Guo*,Optics Letters Vol.50, Issue10, pp.3413-3416(2025). [<strong>EI | IF1.7</strong>]  [**PDF**](https://xueqiangf.github.io/doc/20250520 (激光与光电子学进展) 无监督网络驱动散射成像方法研究进展.pdf)  
+
+<hr>
+
+`Optics Letters 2025` [Large-range polarization scattering imaging with an unsupervised multi-task dynamic-modulated framework](https://doi.org/10.1364/OL.559415), Bing Lin, Longyu Qiao,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Zhongyi Guo*,Optics Letters Vol.50, Issue10, pp.3413-3416(2025). [<strong>中科院2区 TOP | JCR 2区 | IF3.3</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2025 (Optics Letters) MDPF.pdf)  
+
+<hr>
+
+`Opt. Laser Technol. 2025` [Transformer-based improved U-net for high-performance underwater polarization imaging](https://doi.org/10.1016/j.optlastec.2024.111664), Bing Lin, Weiyun Chen,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**, Peng Peng, Zhiping Yin, Zhongyi Guo*,Optics & Laser Technology 181, 111664. [<strong>中科院2区 TOP | JCR 2区 | IF5.0</strong>]  [**PDF**](https://xueqiangf.github.io/doc/20240827 (Opt. Laser Technol.) TIU-Net.pdf)  
+
+
 <hr>
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Opt. Laser Technol. 2025</div>
@@ -155,9 +174,6 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 	<dd><font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>, Menglei Ding, Tianyi Lv, Xixun Sun, Bing Lin, Zhongyi Guo *</dd>
  	<dd><strong>Optics & Laser Technology 187 (2025) 112900. [中科院2区 TOP|JCR 1区|IF5.0]</strong></dd>
     <dd><a href="https://xueqiangf.github.io/doc/20250625 (Opt. Laser Technol.) FuseISP.pdf" target="_blank">PDF</a></dd>
-
-
-
 
 </dl>
 
@@ -247,6 +263,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 - `Photonics 2023` [High-Performance Polarization Imaging Reconstruction in Scattering System under Natural Light Conditions with an Improved U-Net](https://doi.org/10.3390/photonics10020204), Bing Lin,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Dekui Li, Zhongyi Guo*, Photonics 2023, 10, 204. [<strong>中科院3区 | JCR 3区 | IF2.4</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2023 (Photonics) MU-net.pdf)  
 
 <hr>
+
 
 <dl><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"> </script>
     <div class="badge">Opt. Express 2023</div>
