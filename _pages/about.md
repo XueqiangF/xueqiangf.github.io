@@ -138,8 +138,7 @@ Additionally, my early work focused on <strong>Computational Biology, specifical
 ## 📝 Published
 
 <hr>
-
-`Optics Letters 2025` [Polarimetric Observable-based Analysis of Spontaneous Emission in Heterogeneous Layered Scattering Environments](https://doi.org/10.1016/j.optlaseng.2025.109342), Haojie Ding, Xiaopeng Gao,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Zhongyi Guo*,Optics and Lasers in Engineering 195, 109342. [<strong>中科院2区 | JCR 2区 | IF3.7</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2025 (Opt. Lasers. Eng) HLSE.pdf)  
+<span style="background:blue;color:white;">`Opt. Lasers Eng. 2025`</span> [Polarimetric Observable-based Analysis of Spontaneous Emission in Heterogeneous Layered Scattering Environments](https://doi.org/10.1016/j.optlaseng.2025.109342), Haojie Ding, Xiaopeng Gao,  **<font style="font-style:oblique"><strong>Xueqiang Fan</strong></font>**,  Zhongyi Guo*,Optics and Lasers in Engineering 195, 109342. [<strong>中科院2区 | JCR 2区 | IF3.7</strong>]  [**PDF**](https://xueqiangf.github.io/doc/2025 (Opt. Lasers. Eng) HLSE.pdf)  
 
 <hr>
 
